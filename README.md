@@ -9,7 +9,7 @@ Course | Instructor(s) | Tern Taken | Uploaded | Grade
 AMATH 501 | Fanze Kong | Autumn 2024 | Done | 3.9
 AMATH 502 | Ana Semenova | Winter 2025 | Intending To | 3.5
 AMATH 503 | Fanze Kong | Spring 2025 | Intending To | 4.0
-AMATH 515 | Bamdad Hosseini | Winter 2025 | In Progress | 4.0
+AMATH 515 | Bamdad Hosseini | Winter 2025 | Done | 4.0
 AMATH 516 | Dmitriy Drusvyatskiy | Spring 2025 | Intending To | 4.0
 AMATH 581 | Nathan Kutz | Autumn 2024 | No | 3.6
 AMATH 584 | Jingwei Hu | Autumn 2024 | Done | 3.9
