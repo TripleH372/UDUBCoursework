@@ -1,5 +1,6 @@
 # UDUBCoursework
 
+### About
 The following list is here to showcase the coursework I have done in my Applied and Computational Mathematics Master's Degree at University of Washington.
 
 ### Courses
