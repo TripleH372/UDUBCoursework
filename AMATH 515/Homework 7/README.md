@@ -1,0 +1,1 @@
+This homework dealt with image inpainting by utilizing properties of Scientific Computing, Mathematical Optimization, Numerical Computing, and Computational Vision. Once again, there was a report and coding that needed to be done. There is also some theory in this homework which can be accessed through the report.
