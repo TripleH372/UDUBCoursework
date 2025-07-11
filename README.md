@@ -1,6 +1,6 @@
 # UDUBCoursework
 
-The following list is here to showcase the coursework I have done in my Applied and Computational Mathematics Degree at University of Washington.
+The following list is here to showcase the coursework I have done in my Applied and Computational Mathematics Master's Degree at University of Washington.
 
 ### Courses
 Course | Instructor(s) | Tern Taken | Uploaded | Grade
