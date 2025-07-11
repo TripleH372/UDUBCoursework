@@ -1,0 +1,1 @@
+The solvers file was provided but I implemented the intended functionality directly into my Jupyter Notebook. This homework assignment had a report that was to be buttressed by code where starter code was provided, but we had to do the intended functionality and report our findings.
