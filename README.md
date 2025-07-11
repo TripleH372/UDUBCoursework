@@ -4,7 +4,7 @@
 The following list is here to showcase the coursework I have done in my Applied and Computational Mathematics Master's Degree at University of Washington.
 
 ### Courses
-Course | Instructor(s) | Tern Taken | Uploaded | Grade
+Course | Instructor(s) | Term Taken | Uploaded | Grade
 -|-|-|-|-
 AMATH 501 | Fanze Kong | Autumn 2024 | Done | 3.9
 AMATH 502 | Ana Semenova | Winter 2025 | Intending To | 3.5
