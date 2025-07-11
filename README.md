@@ -4,7 +4,7 @@ The following list is here to showcase the coursework I have done in my Applied 
 
 ### Courses
 Course | Instructor(s) | Tern Taken | Uploaded | Grade
-- | - | - | - | -
+-|-|-|-|-
 AMATH 501 | Fanze Kong | Autumn 2024 | Yes | 3.9
 AMATH 502 | Ana Semenova | Winter 2025 | Yes | 3.5
 AMATH 503 | Fanze Kong | Spring 2025 | Yes | 4.0
